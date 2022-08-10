@@ -1,0 +1,39 @@
+epoch 0
+train loss: 1.033
+eval loss: 0.84
+
+epoch 1
+train loss: 0.713
+eval loss: 0.742
+
+epoch 2
+train loss: 0.559
+eval loss: 0.701
+
+epoch 3
+train loss: 0.474
+eval loss: 0.658
+
+epoch 4
+train loss: 0.435
+eval loss: 0.658
+
+epoch 5
+train loss: 0.398
+eval loss: 0.689
+
+epoch 6
+train loss: 0.376
+eval loss: 0.678
+
+epoch 7
+train loss: 0.359
+eval loss: 0.683
+
+epoch 8
+train loss: 0.345
+eval loss: 0.69
+
+epoch 9
+train loss: 0.338
+eval loss: 0.689
